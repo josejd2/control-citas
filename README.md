@@ -1,1 +1,1 @@
-# Crear un sistema de control de citas con PHP con MVC
+# Crear un sistema de control de citas con PHP y con MVC
